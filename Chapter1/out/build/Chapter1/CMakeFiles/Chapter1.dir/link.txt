@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Chapter1.dir/main.cpp.o CMakeFiles/Chapter1.dir/Matrix/Matrix.cpp.o CMakeFiles/Chapter1.dir/Matrix/ValueMatrix.cpp.o CMakeFiles/Chapter1.dir/Variable/testfunc.cpp.o -o Chapter1 
